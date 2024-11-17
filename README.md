@@ -6,10 +6,10 @@
   <img align="left" alt="MyGithub" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/ryshhnidya?igsh=MWZ5cnZpbXp0czEzNw==">
-  <img align="left" alt="MyGithub" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="MyInstagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">
-  <img align="left" alt="MyGithub" width="100px" src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" />
+  <img align="left" alt="MySpotify" width="100px" src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" />
 </a><br>
 
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, Software Engineer, And Comp&Chill Gamers </samp></h4></p>
