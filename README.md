@@ -41,9 +41,9 @@
 
 ##
 <h3><b><samp>Here are games that i played :</samp></b></h3>
-- Genshin Impact
-- Mobile Legends
-- Valorant
-- hayday
-- Chess
-- etc..
+- Genshin Impact <br>
+- Mobile Legends <br>
+- Valorant<br>
+- hayday<br>
+- Chess<br>
+- etc..<br>
