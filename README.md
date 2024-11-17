@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/ryshhnidya?igsh=MWZ5cnZpbXp0czEzNw==">
   <img align="left" alt="MyInstagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">
+<a href="https://open.spotify.com/user/31j2tco4psamjm57b223nxdvwosq?si=d6bbd051021b4836">
   <img align="left" alt="MySpotify" width="100px" src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" />
 </a><br>
 
