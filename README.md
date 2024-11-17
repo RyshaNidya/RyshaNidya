@@ -13,10 +13,10 @@
 
 <div>
 <h3><b><samp>My Journey in Tech:</samp></b></h3>
-- 🏫 <b>Jurusan Rekayasa Perangkat Lunak di SMKN 4 Tanjung Pinang, Kepri, Indonesia</b><br>
-- 👩 <b>Ketua Organisasi Artificial Intelligence (AI) SMKN 4 TPI</b><br>
-- 🏢 <b>Magang selama 6 bulan di Kejaksaan Tinggi Kepulauan Riau</b><br>
-- 👩‍🎓 <b>Mahasiswa D3 Teknik Informatika dengan spesiali IOT Engineer di Politeknik Negeri Batam</b><br>
+- 🏫 <b>Software Engineering Department at SMKN 4 Tanjung Pinang Vocational High School, Kepri, Indonesia.</b><br>
+- 👩 <b>Head of the Artificial Intelligence (AI) Organization at SMKN 4 TPI</b><br>
+- 🏢 <b>A half-year internship at the Kejaksaan Tinggi Kepulauan Riau</b><br>
+- 👩‍🎓 <b>Diploma III Computer Engineering student specializing in IoT Engineering at Batam State Polytechnic</b><br>
 </div>
 
 ##
