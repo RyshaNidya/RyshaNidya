@@ -17,3 +17,12 @@
 - 🏢 <b>Magang selama 6 bulan di Kejaksaan Tinggi Kepulauan Riau</b><br>
 - 👩‍🎓 <b>Mahasiswa D3 Teknik Informatika dengan spesiali IOT Engineer di Politeknik Negeri Batam</b><br>
 </div>
+
+##
+<h3><b><samp>Skills and Languages</samp></b></h3>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
