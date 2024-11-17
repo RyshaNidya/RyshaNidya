@@ -41,9 +41,9 @@
 
 ##
 <h3><b><samp>Here are games that i played :</samp></b></h3>
-- Genshin Impact <br>
+- Genshin Impact (UID : <b>884151421</b>) <br>
 - Mobile Legends <br>
-- Valorant<br>
+- Valorant (<b>Aryshia#1594</b>)<br>
 - hayday<br>
 - Chess<br>
 - etc..<br>
