@@ -7,7 +7,9 @@
 </a>
 <a href="https://www.instagram.com/ryshhnidya?igsh=MWZ5cnZpbXp0czEzNw==">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a><br>
+</a>
+<a href="[https://open.spotify.com/user/0170agi99s5hh187g7mtz245b](https://open.spotify.com/user/31j2tco4psamjm57b223nxdvwosq?si=d6bbd051021b4836)" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<br>
 
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, Software Engineer, And Comp&Chill Gamers </samp></h4></p>
 
