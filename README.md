@@ -2,7 +2,7 @@
 <br>
 <p align="center">
 
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
+  <img src="https://media.tenor.com/4EhUju6UJtEAAAAi/grrr-rawr.gif" height="200" />
 </p>
 
 
@@ -66,3 +66,10 @@
 - hayday<br>
 - Chess<br>
 - etc..<br>
+
+##
+
+<p  align="center">
+  Bye Byeeee... <br><br>
+  <img  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ0MG1xbXFieHg1bnozeG10Yjk5MTV1d2wzZHZkdm1pMTUxdDJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUKVrDGuSPB7nyFK4M/giphy.gif" height="200" />
+</p>
